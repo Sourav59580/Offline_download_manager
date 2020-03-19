@@ -1,0 +1,11 @@
+{
+  "name": "idm",
+  "version": "1.0.0",
+  "description": "This is a Download manager",
+  "main": "index.js",
+  "scripts": {
+       "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
